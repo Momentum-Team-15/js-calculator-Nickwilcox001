@@ -1,0 +1,44 @@
+.row{
+    display: flex;
+    
+    
+}
+.smallButtons
+{
+    border: solid 1px white;
+    height: 100px;
+    width: 100px;
+    color: white;
+    background-color: green;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 40px;
+}
+.longButton
+{
+    height: 100px;
+    width: 304px;
+    border: solid 1px white;
+    color: white;
+    background-color: green;
+}
+.buttons
+{
+}
+#divide
+{
+    background-color: lightgreen;
+}
+#multiply
+{
+    background-color: lightgreen;
+}
+#add
+{
+    background-color: lightgreen;
+}
+#subtract
+{
+    background-color: lightgreen;
+}
